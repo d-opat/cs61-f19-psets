@@ -7,6 +7,7 @@
 
 int main() {
     double* ptr = (double*) malloc(sizeof(double));
+    // std::cout << (uintptr_t) ptr % alignof(double) << std::endl;
     assert((uintptr_t) ptr % alignof(double) == 0);
     assert((uintptr_t) ptr % alignof(unsigned long long) == 0);
 

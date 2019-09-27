@@ -3,15 +3,14 @@ Author and collaborators
 
 Primary student
 ---------------
-(Your name.)
+David J Opatrny II
 
 
 Collaborators
 -------------
-(List any other collaborators and describe help you got from other students
-in the class.)
+None
 
 
 Citations
 ---------
-(List any other sources consulted.)
+Piazza discussions and lecture/section notes and video

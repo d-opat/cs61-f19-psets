@@ -7,8 +7,10 @@ collaborators, in `AUTHORS.md`.
 
 Grading notes (if any)
 ----------------------
-
+Will be reattempting this problem set. 
+I got behind due to work responsibilities and couldn't recover in time.
 
 
 Extra credit attempted (if any)
 -------------------------------
+None

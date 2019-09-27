@@ -5,6 +5,7 @@
 #include <cinttypes>
 #include <cstdio>
 #include <new>
+#include <iostream>
 
 
 /// m61_malloc(sz, file, line)
